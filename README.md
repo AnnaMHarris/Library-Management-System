@@ -4,15 +4,15 @@ A Java Object Oriented Program using a command-line userface that allows for two
 
 ## Types of users
 Employee 
-Customer
+<br />Customer
 
 ## Options
 Add user
-Delete user
-Login
-Logout
-Search book
-Add book
-Return book
-Check user info
-Checkout book
+<br />Delete user
+<br />Login
+<br />Logout
+<br />Search book
+<br />Add book
+<br />Return book
+<br />Check user info
+<br />Checkout book
